@@ -47,7 +47,7 @@ In case you don't have the docs, the basic game play, per ship, is:
 as a square around the ship - so mark off only 90 degree and 45 degree
 lines, and draw the box. Further, the sub will not venture within
 5 units of the edge of the map.
-2) Set source and speed, and Move ship. Do not collide with other ships,
+2) Set course and speed, and Move ship. Do not collide with other ships,
 if you do, you will be knocked to a random location and course.
 3) Press range again. The sub has not moved, so use the new range to
 update your chart and eliminate impossible positions.
